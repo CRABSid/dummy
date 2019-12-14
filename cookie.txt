@@ -1,0 +1,6 @@
+#LWP-Cookies-2.0
+Set-Cookie3: c_user=100023876914920; path="/"; domain=".facebook.com"; path_spec; domain_dot; secure; expires="2020-03-13 17:18:32Z"; SameSite=None; version=0
+Set-Cookie3: datr="aRn1XfCQn1KVKMpl-MM3Y4Y2"; path="/"; domain=".facebook.com"; path_spec; domain_dot; secure; expires="2021-12-13 17:18:34Z"; SameSite=None; httponly=None; version=0
+Set-Cookie3: fr="3iw7oRiXySzIVGqaO.AWV14GHehGv6TAkobpujnA1RS-g.Bd9Rlp.cg.AAA.0.0.Bd9Rlp.AWWtOBoj"; path="/"; domain=".facebook.com"; path_spec; domain_dot; secure; expires="2020-03-13 17:18:30Z"; SameSite=None; httponly=None; version=0
+Set-Cookie3: sb=aRn1XZi2PFHgxc8tSLPsQ3eb; path="/"; domain=".facebook.com"; path_spec; domain_dot; secure; expires="2021-12-13 17:18:34Z"; SameSite=None; httponly=None; version=0
+Set-Cookie3: xs="7%3A5Q3zpvmWtyf3mw%3A2%3A1576343913%3A2927%3A11186"; path="/"; domain=".facebook.com"; path_spec; domain_dot; secure; expires="2020-03-13 17:18:32Z"; SameSite=None; httponly=None; version=0
